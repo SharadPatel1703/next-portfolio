@@ -3,11 +3,13 @@ export const custom_blogs = [
     {
         title: 'Leveraging Python for Efficient Data Analysis',
         description: 'Discover how Python libraries like Pandas and NumPy can streamline your data analysis workflow, from data cleaning to visualization.',
+        link : "https://medium.com/@sharad123patel/leveraging-python-for-efficient-data-analysis-2e8a2f3bf953",
         categories: ['Data Analysis', 'Python', 'Pandas', 'NumPy']
     },
     {
         title: 'Building Web Apps with React.js and Node.js',
         description: 'Learn the fundamentals of building scalable and interactive web applications using React.js for the front-end and Node.js for the back-end.',
+        link: "https://medium.com/@sharad123patel/building-web-apps-with-react-js-and-node-js-354d85bef430",
         categories: ['Web Development', 'React.js', 'Node.js', 'Full-stack']
     },
     {
@@ -28,6 +30,7 @@ export const custom_blogs = [
     {
         title: 'My Journey as a Computer Programming Student',
         description: 'Join me as I share my experiences, challenges, and lessons learned while transitioning from academia to the tech industry.',
+        link: "https://medium.com/@sharad123patel/my-journey-as-a-computer-programming-student-2a0fef8e065a",
         categories: ['Career Development', 'Programming', 'Student Experience']
     },
 ];
